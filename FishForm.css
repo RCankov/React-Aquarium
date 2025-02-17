@@ -1,0 +1,17 @@
+.fish-form {
+    max-width: 800px;
+    margin-top: 20px;
+    margin: 0 auto;
+}
+
+.btn-primary {
+    width: 170px;
+}
+
+.text-center {
+    color: aliceblue;
+}
+.class-sel{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
