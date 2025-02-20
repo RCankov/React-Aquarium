@@ -3,6 +3,7 @@
 Popis Aplikace "Aquarium App"
 "Aquarium App" je jednoduchá a uživatelsky přívětivá webová aplikace, která umožňuje uživatelům spravovat seznam ryb a plánovat akvárium. Aplikace je postavená pomocí knihovny React a nabízí několik klíčových funkcí:
 Funkce Aplikace
+
 Seznam Ryb (Fish List):
 Uživatelé mohou zobrazit seznam všech ryb, které mají ve svém akváriu.
 Každá ryba má své unikátní vlastnosti, jako je jméno, barva a velikost.
